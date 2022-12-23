@@ -1,0 +1,11 @@
+h1{
+    color:darkblue;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration-line: underline;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: darkslategrey;
+}
